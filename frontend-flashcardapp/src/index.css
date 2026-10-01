@@ -1,0 +1,57 @@
+/* Global styles */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  transition: background-color 0.2s ease;
+}
+
+.study-card {
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+.study-card:hover {
+  transform: scale(1.02);
+}
+
+.study-card:active {
+  transform: scale(0.98);
+}
+
+.card-flip-container {
+  transform-style: preserve-3d;
+}
+
+.card-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+@keyframes glow {
+  to {
+    text-shadow: 0 2px 10px rgba(255, 255, 255, 0.5), 0 0 30px rgba(255, 255, 255, 0.2);
+  }
+}
+
+@keyframes slideInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

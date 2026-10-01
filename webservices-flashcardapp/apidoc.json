@@ -1,0 +1,11 @@
+{
+  "name": "FlipWise API",
+  "version": "1.0.0",
+  "description": "API documentation for the Backend",
+  "title": "FlipWise",
+  "url": "/api",
+  "template": {
+    "withCompare": false,
+    "forceLanguage": "en"
+  }
+}
