@@ -5,7 +5,7 @@ const settings = {
     disabled: false,
   },
   cors: {
-    origins: ["http://localhost:5173", "https://frontend-2425-aliaydinlioglu.onrender.com"],
+    origins: process.env.CORS_ORIGINS ? process.env.CORS_ORIGINS.split(",") : ["http://localhost:5173"],
     maxAge: 3 * 60 * 60,
   },
   database: {

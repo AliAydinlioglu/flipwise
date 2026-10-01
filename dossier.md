@@ -1,13 +1,10 @@
 # FlipWise - Project Showcase & Overview
 
-## 🚀 Live Demo & Links
+FlipWise is a full-stack flashcard web application designed to help users learn, practice, and memorize information efficiently. Similar to platforms like Quizlet, users can create custom study sets organized into folders, practice with interactive flip cards, track their learning performance, and browse public study decks created by the community.
 
-- **Frontend App:** [https://frontend-2425-aliaydinlioglu.onrender.com](https://frontend-2425-aliaydinlioglu.onrender.com)
-- **API Services:** [https://frontendweb-2425-aliaydinlioglu.onrender.com](https://frontendweb-2425-aliaydinlioglu.onrender.com)
+### Default Test Credentials (from seeds)
 
-### Demo Credentials
-
-To test the application without creating a new account:
+To test the application locally with seeded mock data:
 - **Email:** `user@example.com`
 - **Password:** `user1234`
 
