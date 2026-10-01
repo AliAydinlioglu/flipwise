@@ -5,6 +5,7 @@
   "main": "./out/src/index.js",
   "packageManager": "yarn@4.4.0",
   "scripts": {
+    "build": "tsc",
     "lint": "eslint .",
     "start": "env-cmd -f .env ts-node src/index.ts --custom-string",
     "startDemon": "env-cmd nodemon ./src/index.ts",
