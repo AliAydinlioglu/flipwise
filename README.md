@@ -1,7 +1,5 @@
 # FlipWise - Full-Stack Flashcard Learning Application
 
-FlipWise is a full-stack flashcard web application inspired by Quizlet, built with a React frontend and a Node.js/TypeScript backend. It enables learners to create custom flashcard decks, organize them into folders, study interactively with flip cards and self-scoring, and explore public community decks.
-
 For an in-depth showcase with screenshots, domain model, and feature walkthrough, see **[dossier.md](dossier.md)**.
 
 ---
