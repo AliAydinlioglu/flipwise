@@ -4,7 +4,7 @@ A RESTful API built with Node.js, Koa, TypeScript, and MySQL for the FlipWise fl
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 webservices-flashcardapp/
@@ -28,7 +28,7 @@ webservices-flashcardapp/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Runtime & Framework:** Node.js, Koa.js, TypeScript
 - **Database & Query Builder:** MySQL 8, Knex.js
@@ -39,7 +39,7 @@ webservices-flashcardapp/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ For running tests, optionally create a `.env.test` file pointing to a dedicated 
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Run the integration test suite:
 
@@ -117,7 +117,7 @@ yarn test:coverage
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 Generate API documentation using ApiDoc:
 
