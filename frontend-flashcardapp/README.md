@@ -4,7 +4,7 @@ The single-page client application for the FlipWise flashcard platform, built wi
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 frontend-flashcardapp/
@@ -35,7 +35,7 @@ frontend-flashcardapp/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React 18
 - **Build Tool:** Vite
@@ -47,7 +47,7 @@ frontend-flashcardapp/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ VITE_API_URL=http://localhost:9000/api
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Run Cypress end-to-end tests:
 
