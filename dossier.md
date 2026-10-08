@@ -10,7 +10,7 @@ To test the application locally with seeded mock data:
 
 ---
 
-## 📖 What the Project Does
+## What the Project Does
 
 ### 1. Interactive Study Mode
 Users can study flashcards through an interactive card-flip interface. For each card, users evaluate their familiarity (1 = Hard, 2 = Medium, 3 = Easy), which updates their scoreboard and tracks their learning progress over time.
@@ -29,7 +29,7 @@ Built with Material-UI (MUI) providing seamless light/dark mode toggling and a f
 
 ---
 
-## 🗄️ Domain Model & Database Schema
+## Domain Model & Database Schema
 
 The database is built on MySQL using Knex migrations and seeds with relational integrity:
 
@@ -42,7 +42,7 @@ The database is built on MySQL using Knex migrations and seeds with relational i
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home & Landing
 ![Homepage](frontend-flashcardapp/img/Homepage.png)
@@ -78,7 +78,7 @@ The database is built on MySQL using Knex migrations and seeds with relational i
 
 ---
 
-## 🌐 API Overview
+## API Overview
 
 The backend exposes a structured RESTful API with unified public and authenticated endpoints:
 
@@ -113,7 +113,7 @@ The backend exposes a structured RESTful API with unified public and authenticat
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## Testing & Quality Assurance
 
 ### End-to-End Testing (Frontend)
 The frontend includes end-to-end tests written with **Cypress**:
