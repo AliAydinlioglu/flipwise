@@ -4,7 +4,7 @@ For an in-depth showcase with screenshots, domain model, and feature walkthrough
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 This monorepo consists of two independent packages:
 
@@ -15,7 +15,7 @@ This monorepo consists of two independent packages:
 
 ---
 
-## ⚡ Quickstart
+## Quickstart
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ Navigate to `http://localhost:5173` in your browser.
 
 ---
 
-## 🧪 Testing
+## Testing
 
 * **Backend Integration Tests:**
   ```bash
